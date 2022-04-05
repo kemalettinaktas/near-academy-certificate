@@ -1,3 +1,3 @@
 # near-academy-certificate
 
-![Cert](https://near.academy/certificate/aktasizm)
+[See Certificate](https://near.academy/certificate/aktasizm)
